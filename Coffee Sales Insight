@@ -1,0 +1,61 @@
+1. COFFEE NAMES 
+
+* Americano
+* Americano and Milk
+* Cappuccino 
+* Cocoa
+* Cortado
+* Espresso 
+* Hot Chocolate 
+* Latte
+
+2. Analyzing the purchasing pattern by the time of the day.
+
+* ⁠Morning : 22,696.266 Ukrainian Hryvnia.
+* ⁠Afternoon: 29,089.02 Ukrainian Hryvnia.
+* ⁠Evening: 17,217.24 Ukrainian Hryvnia.
+
+2. Sales Trend Overtime.
+
+* March: 7,050.20 Ukrainian Hryvnia.
+* April: 6,720.56 Ukrainian Hryvnia.
+* May: 9,063.42 Ukrainian Hryvnia.
+* Jun: 7,758.76 Ukrainian Hryvnia.
+* Jul: 6,915.94 Ukrainian Hryvnia.
+* Aug: 7,613.84 Ukrainian Hryvnia.
+* Sep: 9,988.64 Ukrainian Hryvnia.
+* Oct: 13,891.16 Ukrainian Hryvnia.
+
+
+3. Top 3 Coffee types by Sales Amount
+
+* Latte : 18,318.38 Ukrainian Hryvnia.
+* Americano with Milk : 16,072.84 Ukrainian Hryvnia.
+* Cappuccino: 11,382.78 Ukrainian Hryvnia.
+
+4. Bottom 3 Coffee by Sales Amount
+
+* Espresso: 1,824.46 Ukrainian Hryvnia.
+* Cocoa : 3,099.6 Ukrainian Hryvnia.
+* Hot Chocolate: 5,416.38 Ukrainian Hryvnia.
+
+5. Total Revenue : 69,002.52 Ukrainian Hryvnia.
+
+6. Number of Sales by Product
+
+* Cappuccino: 11,382.78 Ukrainian Hryvnia.
+* Americano with Milk : 16,072.84 Ukrainian Hryvnia.
+* Latte: 18,318.38 Ukrainian Hryvnia.
+* Hot Chocolate: 5,416.38 Ukrainian Hryvnia.
+* Cocoa : 3,099.6 Ukrainian Hryvnia.
+* Espresso: 1,824.46 Ukrainian Hryvnia.
+* Cortado: 5,509.98 Ukrainian Hryvnia.
+* Americano: 7,378.10 Ukrainian Hryvnia.
+
+Overall Analysis
+
+* The highest sales of coffee was generated in the month of October.
+* Espresso generated the least sales with a sum of 1,824.46 Ukrainian hryvnia.
+* Latte generated the Highest sales with a sum of 18,318.38 Ukrainian hryvnia
+* The Month of April generated the least sales with a sum of 6,720.56 Ukrainian hryvnia.
+* More sales are generated in the Evening than any other time of the day.l
